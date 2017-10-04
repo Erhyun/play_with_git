@@ -32,6 +32,7 @@ huh... no difference
 
 \~\~strikes out\~\~ ~~striked out~~
 
-\> for block quotes \<
+\> for block quotes
 
 > quote quote quote 
+
